@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-  std::cout << "Hello, subproject!" << std::endl;
+  std::cout << "Now we are doing the first task!" << std::endl;
   return 0;
 }
