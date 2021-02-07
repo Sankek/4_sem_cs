@@ -9,5 +9,6 @@ void task_2_function(){
 
 int main() {
   std::cout << "Now we are doing the second task!" << std::endl;
+  std::cout << "Rebase is done!" << '\n';
   return 0;
 }
