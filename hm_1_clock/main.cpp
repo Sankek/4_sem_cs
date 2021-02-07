@@ -3,8 +3,7 @@
 constexpr int temp{1}; // this const is redundant!
 
 void task_2_function(){
-  // nothing interesing here
-  // mmm.. commits...
+  // maybe it's time to write something here?
 }
 
 int main() {
