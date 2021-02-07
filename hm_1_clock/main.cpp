@@ -4,6 +4,7 @@ constexpr int temp{1}; // this const is redundant!
 
 void task_2_function(){
   // nothing interesing here
+  // mmm.. commits...
 }
 
 int main() {
