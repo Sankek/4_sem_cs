@@ -2,8 +2,8 @@
 
 constexpr int temp{1}; // this const is redundant!
 
-void task_3_function(){
-  // no comments.
+void task_2_function(){
+  // maybe it's time to write something here?
 }
 
 int main() {
