@@ -1,33 +1,9 @@
 #include <iostream>
-#include <chrono>
 #include <vector>
 #include <algorithm>
 
+#include "Timer.h"
 
-class Timer{
- public:
-  using Clock_t = std::chrono::steady_clock;
-  using time_point_t = Clock_t::time_point;
-  Timer() = default;
-  ~Timer() = default;
-
-  void start(){
-    m_begin = Clock_t::now();
-  }
-
-  void stop(){
-    m_end = Clock_t::now();
-  }
-
-  int_fast64_t result(){
-    return std::chrono::duration_cast<std::chrono::milliseconds> (m_end-m_begin).count();
-  }
-
- private:
-  time_point_t m_begin{};
-  time_point_t m_end{};
-
-};
 
 std::vector<int> random_vector(int size){
   std::vector<int> v(size);
