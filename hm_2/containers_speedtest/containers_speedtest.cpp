@@ -117,12 +117,11 @@ void fill(Table &table, const std::string& column, int iters_num=1000){
 
   std::cout << '\n';
 
-  table.to_csv("../results_tmp.csv");
 }
 
 int main(int argc, char **argv){
   /* 
-   * Здесь проверяется скорость сортировки 5 последовательных
+   * Здесь проверяется скорость сортировки 5 последовательных контейнеров
    * из стандартной библиотеки.
    * 
    * Сортировка производится функцией std::sort, а для списков --

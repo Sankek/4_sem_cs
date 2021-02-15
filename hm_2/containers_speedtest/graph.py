@@ -15,9 +15,9 @@ for i in range(len(containers)):
 
 # plt.tight_layout(0.5)
 
-ax.set_xlabel("push_back num when full")
+ax.set_xlabel("number of elements")
 ax.set_xscale("log")
-ax.set_ylabel("vector capacity")
+ax.set_ylabel("sort time (milliseconds)")
 ax.set_yscale("log")
 ax.grid(True)
 plt.legend(loc='best')
