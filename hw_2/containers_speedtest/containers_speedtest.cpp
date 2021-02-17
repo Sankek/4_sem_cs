@@ -9,7 +9,7 @@
 #include <iomanip>
 #include <sstream>
 
-#include "../../hm_1/Timer.h"
+#include "../../hw_1/Timer.h"
 #include "Table.h"
 
 static std::random_device random_device;
