@@ -57,7 +57,7 @@ template<class Container, class T>
 double measure_sort_time(Container &container, const std::vector<T> &data, int iters= 10){
   std::copy(data.begin(), data.end(), container.begin());
 
-  Timer timer{};
+  Timer<std::chrono::milliseconds> timer{};
   int_fast64_t mean{};
   for (int i{}; i<iters; ++i) {
     std::copy(data.begin(), data.end(), container.begin());

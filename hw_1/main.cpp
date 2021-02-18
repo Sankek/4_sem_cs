@@ -17,7 +17,7 @@ double timeit_vector_sort(int size, int n=10){
    *  random std::vector<int> per n iterations.
    */
 
-  Timer timer{};
+  Timer<std::chrono::milliseconds> timer{};
 
   int_fast64_t mean{};
   std::vector<int> v(size);

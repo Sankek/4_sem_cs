@@ -3,6 +3,7 @@
 
 #include <chrono>
 
+template<class Duration>
 class Timer{
  public:
   using Clock_t = std::chrono::steady_clock;
@@ -19,7 +20,7 @@ class Timer{
   }
 
   int_fast64_t result(){
-    return std::chrono::duration_cast<std::chrono::milliseconds> (m_end-m_begin).count();
+    return std::chrono::duration_cast<Duration> (m_end-m_begin).count();
   }
 
  private:
