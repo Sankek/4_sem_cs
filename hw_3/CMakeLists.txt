@@ -1,3 +1,6 @@
 project(hw_3)
 
 add_subdirectory(set_insert_vs_sort)
+add_subdirectory(double_hash)
+add_subdirectory(boost_hash_test)
+add_subdirectory(phonebook_multi_index)

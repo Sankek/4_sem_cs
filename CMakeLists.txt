@@ -3,6 +3,7 @@ project(4_sem_cs)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_subdirectory(hm_1)
-add_subdirectory(hm_2)
+add_subdirectory(hw_1)
+add_subdirectory(hw_2)
+add_subdirectory(hw_3)
 

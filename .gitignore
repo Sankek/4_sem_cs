@@ -3,6 +3,7 @@
 
 # Repository-specific ignore
 .idea/
+bin/
 
 # User-specific stuff
 .idea/**/workspace.xml

@@ -12,7 +12,6 @@
 #include <string>
 #include <sstream>
 
-
 #include "../../hw_1/Timer.h"
 #include "../../hw_2/containers_speedtest/Table.h"
 
