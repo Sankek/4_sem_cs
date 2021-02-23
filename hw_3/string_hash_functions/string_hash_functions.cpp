@@ -174,6 +174,7 @@ struct StringHash{
       case 6: return DJBHash(str);
       case 7: return DEKHash(str);
       case 8: return APHash(str);
+      case 9: return std::hash<std::string>()(str);
       default: return 0;
     }
   }
@@ -198,7 +199,7 @@ void TestHashFunction(const std::string& hash_function_name){
 
   const size_t string_size = 5;
   const float max_load_factor = 2.0f;
-  const size_t reserved_size = 500000; // min num of elements to insert
+  const size_t reserved_size = 1000000; // min num of elements to insert
   size_t save_step = 100;  // skip interval between collision savings
 
   hash_table.max_load_factor(max_load_factor);
@@ -248,6 +249,7 @@ int main(int argc, char **argv){
   TestHashFunction<6>("DJBHash");
   TestHashFunction<7>("DEKHash");
   TestHashFunction<8>("APHash");
+  TestHashFunction<9>("STLHash");
 
   return EXIT_SUCCESS;
 }
