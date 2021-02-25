@@ -6,4 +6,5 @@ set(CMAKE_CXX_STANDARD 20)
 add_subdirectory(hw_1)
 add_subdirectory(hw_2)
 add_subdirectory(hw_3)
+add_subdirectory(hw_4)
 
