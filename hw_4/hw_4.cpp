@@ -224,5 +224,40 @@ int main(int argc, char **argv){
   print(p3, std::cout, "p3");
   print(p4, std::cout, "p4");
 
+  // Task #21
+  const size_t sort_init_size = 64;
+  std::cout << "21. Создадим последовательность p5 и p6 целых чисел от 1 до "
+            << sort_init_size << " и остсортируем с помощью std::sort и "
+            << "std::nth_element, подсчитав, количество сортировкок\n";
+
+  std::cout << "If sort_init_size = " << sort_init_size << " is less than "
+            << "std::_ISORT_MAX = " << std::_ISORT_MAX
+            << " then std::nth_element will full sort the sequece\n";
+
+
+  std::vector<int> p5(sort_init_size);
+  const int sort_start_value = 1;
+  std::iota(std::begin(p5), std::end(p5), sort_start_value);
+  std::shuffle(std::begin(p5), std::end(p5), rng);
+  std::vector<int> p6 = p5;
+
+  print(p5, std::cout, "p5&p6");
+
+  int sort_op_count = 0;
+  int nth_element_op_count = 0;
+  std::sort(std::begin(p5),
+            std::end(p5),
+            [&](int a, int b){ sort_op_count++; return a<b; });
+  std::nth_element(std::begin(p6),
+                   std::next(std::begin(p6), std::distance(std::cbegin(p6), std::cend(p6))/2),
+                   std::end(p6),
+                   [&](int a, int b){ nth_element_op_count++; return a<b; });
+
+  std::cout << "p5 had " << sort_op_count << " std::sort operations\n";
+  print(p5, std::cout, "p5");
+  std::cout << "p6 had " << nth_element_op_count << " std::nth_element sort operations\n";
+  print(p6, std::cout, "p6");
+
+
   return EXIT_SUCCESS;
 }
