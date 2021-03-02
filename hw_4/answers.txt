@@ -8,7 +8,7 @@
 2. Чем отличаются функциональные объекты от функций и лямбда-выражений?
 
 Ф. О. - объект, пользовательский тип, хранит состояние в виде полей класса/структуры в С++.
-Может отличаться в зависимости от аргументов при создании.
+        Может отличаться в зависимости от аргументов при создании.
 А функции передается состояние через глобальные, статические переменные и через аргументы по ссылке.
 Лямбда-выражения - безымянная функция, которую можно создавать в любом месте и сразу же вызывать.
 
@@ -23,10 +23,11 @@ Random_Access Iterator, определены свойства BI, <, >, <=, >=, 
 4. Какая классификация предлагается для алгоритмов стандартной библиотеки?
 
 Немодифицирующие: std::for_each, std::count_if, std::minmax_element, std::find_if
-Модифицирующие: std::copy, std::transform, std::iota, std::for_each, std::fill
-Удаления: std::remove_if, std::unique
-Перестановки: std::reverse, std::shuffle, std::rotate
-Сортировкиstd: ::nth_element, std::sort
+Модифицирующие: std::copy, std::copy_if, std::transform, std::iota, std::for_each (через &),
+                std::fill, std::generate, std::generate_n, std::replace_if
+Удаления: std::remove_if, std::unique, std::erase
+Перестановки: std::reverse, std::shuffle (std::random_shuffle), std::rotate
+Сортировки: std::nth_element, std::sort, std::stable_sort
 Для упорядоченных диапазонов: std::binary_search, std::lower_bound, std::upper_bound, std::equal_range
 Численные алгоритмы: std::accumulate
 
