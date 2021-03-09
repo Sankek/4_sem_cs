@@ -1,0 +1,6 @@
+Found dates and times:
+Found date: 26.02.2021
+Found time: 23:59:59
+Found time: 00:00:00
+Found date: 01.01.2001
+Found time: 01:01:01

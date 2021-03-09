@@ -1,0 +1,8 @@
+Found email domains:
+Found e-mail: com@mail.ru, domain: mail.ru
+Found e-mail: normal_mail@mail.ru, domain: mail.ru
+Found e-mail: mail_2@2_.ru, domain: 2_.ru
+Found e-mail: eaea@phystech.edu, domain: phystech.edu
+Found e-mail: _new_sring@lol.lol.com, domain: lol.lol.com
+Found e-mail: valid_email_@vead.com, domain: vead.com
+Found e-mail: new_mail@mail.ru, domain: mail.ru
