@@ -1,0 +1,100 @@
+Inna,Palilova,43,172,+79696785573,p. Kaljazin  ul. Jasnaja  d. 1  949480,68.833574,89.750679
+Aleksandr,Rasnovskiy,32,176,+79129332605,d. Gubkinskij  all. Uchitel'skaja  d. 5/6 str. 34  625896,64.332809,75.849872
+Klavdiya,Bammatova,25,181,+75747966403,g. Tula  pr. Peschanyj  d. 13 k. 65  134587,56.863134,59.613131
+Alisa,Nelina,21,171,+72444874372,st. Revda (Sverd.)  bul. Tamanskij  d. 96  050793,65.154505,143.357362
+Zhanna,Talieva,26,176,+76851820542,g. Njagan'  nab. Zavodskaja  d. 5/4 k. 4/5  044749,55.474471,59.673402
+Semen,Tselyh,18,178,+74441707101,d. Jaroslavl'  sh. Razdol'noe  d. 1  191683,56.692809,108.143365
+Artem,Motyrygin,69,183,+79724178599,p. Ustjuzhna  ul. Karbysheva  d. 4  047686,62.636216,103.056156
+Vitaliy,Zudilov,43,165,+77903136764,s. Tol'jatti  pr. Udarnyj  d. 856  945169,68.938255,107.728266
+Valeriy,Kashirkin,18,182,+74059298187,p. Ignashino  nab. Kuznetsova  d. 6/2 k. 62  723593,59.092532,40.314326
+Konstantin,Bodylev,7,108,+76320089967,p. Elista  nab. Novaja  d. 51 str. 72  723497,63.652191,83.752655
+Galina,Varbakova,51,196,+74419428255,k. Smirnyh  pr. 60 let Oktjabrja  d. 888  526311,56.148941,55.247816
+Ruslan,Sbezhnev,50,186,+74808445564,d. Kashira  sh. Koroleva  d. 64 str. 2/8  976552,66.123022,71.893619
+Viktoriya,Svoevolina,39,157,+77593071477,k. Kolomna  ul. Pugacheva  d. 9  506462,68.033535,67.591049
+Anastasiya,Zemeleva,34,172,+74588627585,klh Bavly  per. Scherbakova  d. 7  120438,66.114760,61.358730
+Yana,Trischina,53,182,+77603326315,p. Astrahan'  pr. Saratovskij  d. 2  334012,68.404289,72.730143
+Kira,Landrotova,68,178,+78898315320,s. Alagir  nab. Olimpijskaja  d. 4/4 str. 980  010297,55.316385,91.776082
+Valentina,Schipocheva,18,180,+73146533843,p. Tompa  per. Kubanskij  d. 534 k. 3/9  268376,59.503605,25.565079
+Vitaliy,Mindelev,37,180,+78335995107,klh Kartaly  ul. Jubilejnaja  d. 419 str. 3/7  612843,68.513147,86.992551
+Raisa,Baltynskaya,43,186,+72554640409,p. Vladimir  sh. Ugol'noe  d. 1/1  827227,58.719744,80.130972
+Yliya,Somkina,16,161,+79022983877,klh Volokolamsk  all. Shossejnaja  d. 6 k. 340  009108,66.053124,34.597268
+Grigoriy,Bulakirev,54,181,+74066377019,klh Bugul'ma  sh. Rodnikovoe  d. 38 k. 2/6  552462,55.939783,62.985015
+Oksana,Streltsyna,44,159,+71908520431,k. Tuapse  sh. Dem'jana Bednogo  d. 5  284550,57.877995,141.497922
+Dmitriy,Akelichev,47,185,+78265153768,klh Tutonchany  ul. Baumana  d. 499 str. 7/6  442422,57.819883,63.321273
+Tamara,Kazyavkina,35,172,+72629735504,k. Belyj Jar (Tomsk.)  pr. Volodarskogo  d. 76 str. 27  876610,60.406441,106.899389
+Aleksandr,Klenshin,30,188,+74333290183,k. Onega  all. Olimpijskaja  d. 1/9 k. 61  718685,65.970969,148.117541
+Petr,Iliev,24,202,+71491665071,klh Asino  nab. Pirogova  d. 3/8 k. 27  285766,64.283005,37.164133
+Elizaveta,Varyhina,11,127,+79906939934,d. Tomari  nab. Lesnaja  d. 797 k. 10  949117,57.784249,26.704258
+Alena,Buryblina,16,179,+74369705199,klh Tutonchany  all. L'va Tolstogo  d. 3 str. 7  402101,56.493965,155.118949
+Raisa,Zhuzhgitova,35,177,+73034347410,s. Uvarovo  nab. Popova  d. 7/3 str. 62  446971,63.147167,71.829304
+Vyacheslav,Lyzenkov,14,160,+75208048917,klh Ples  per. Kosmodem'janskoj  d. 52 k. 383  736793,55.711586,128.420445
+Aleksandr,Sizemskiy,38,184,+77682851184,klh Verhojansk  sh. Gastello  d. 757  641882,65.136626,44.310254
+Valeriya,Toyanova,11,115,+71215775352,g. Abakan  per. Komsomol'skij  d. 9/5 k. 6  686606,66.789685,102.610848
+Ivan,Kormaleev,30,193,+76206357765,st. Noginsk (Mosk.)  pr. Avtomobilistov  d. 9 str. 6/9  652659,62.536859,69.252903
+Boris,Nurzhanov,22,170,+73052439643,k. Mtsensk  per. Aviatsionnyj  d. 8/2  296237,60.754823,50.370637
+Denis,Lundovskih,81,186,+76501478689,p. Cheboksary  all. Baumana  d. 196 str. 60  336023,57.059036,66.981415
+Natalya,Atkulova,61,197,+78104175251,s. Kanevskaja  sh. Okruzhnoe  d. 30 str. 53  259630,59.112617,157.247876
+Natalya,Shaboneeva,36,175,+71069834343,st. Poronajsk  ul. Radischeva  d. 8 k. 46  033673,55.340337,56.647234
+Aleksey,Kozlin,97,144,+71935747544,k. Malojaroslavets  bul. Krasnoarmejskij  d. 840  638706,60.437665,121.770267
+Vladislav,Shihaev,35,153,+79393679659,p. Sasovo  bul. Bljuhera  d. 5 k. 61  098005,58.541361,145.972812
+Leonid,Evzerov,39,175,+73984968257,klh Kabansk  per. Novyj  d. 5 str. 529  074121,65.297536,93.745304
+Taras,Naberezhnev,15,145,+71139758935,k. Uvarovo  ul. Pavlika Morozova  d. 1/7  393268,58.347757,61.258082
+Alina,Ishinova,19,177,+73787936293,klh Kedrovyj  nab. Meditsinskaja  d. 2 k. 5  053953,62.899575,101.515572
+Klavdiya,Mokshantseva,39,201,+79648917693,st. Kirovsk (Murm.)  per. Splavnyj  d. 7  820966,68.292960,136.134171
+Boris,Lyhankov,21,179,+72700190615,g. Kizljar  per. Chernjahovskogo  d. 777 k. 7/6  782566,56.706804,90.220756
+Yliya,Zgosheva,19,154,+75152023957,p. Nepljuevka  sh. Ryleeva  d. 696  621565,56.471714,33.108734
+Nikita,Mastikov,4,95,+72722736053,g. Krymsk  pr. Volgogradskij  d. 738 k. 73  674521,68.634207,79.678334
+Gennadiy,Potutkin,33,180,+73661391003,st. Hanty-Mansijsk  bul. Engel'sa  d. 6  418584,65.941487,150.535442
+Albert,Stytsyn,35,201,+73936017970,s. Holmsk  ul. Gornjatskaja  d. 1/3 k. 56  862637,62.564502,146.538587
+Stanislav,Maserov,20,185,+77560591778,k. Kineshma  all. Internatsional'naja  d. 80 k. 1  380485,66.715189,130.773887
+Viktor,Chicherykin,22,170,+77939280785,k. Habarovsk  pr. Lesozavodskij  d. 14 str. 2  690975,66.901688,118.531185
+Aleksandra,Chechenkina,12,135,+74581421223,klh Kansk  ul. Zhukovskogo  d. 8 str. 7  342655,58.103232,57.123435
+Mihail,Bedakov,35,194,+72819752708,s. Adler  ul. Zaporozhskaja  d. 3/2 str. 302  454356,56.204960,33.485415
+Kristina,Evsevicheva,20,183,+73739239813,st. Groznyj  sh. Bajkal'skoe  d. 57  789304,65.805207,153.185487
+Zhanna,Chvakova,32,175,+75932722992,d. Temrjuk  nab. Verhnjaja  d. 966  909011,63.186221,116.527293
+Alena,Shaginova,17,180,+74399331065,g. Pechora  pr. Zhukova  d. 4/9  575627,64.083682,66.045217
+Oksana,Tagankina,30,180,+77516966230,klh Tiksi  sh. Gajdara  d. 856  225157,63.955502,25.557874
+Vera,Okoleva,10,113,+76361883210,s. Kirovsk (Lenin.)  pr. Olimpijskij  d. 564  521139,68.984390,63.307417
+Vyacheslav,Hvatinin,9,109,+76716100882,k. Uvarovo  pr. Fadeeva  d. 5  480888,59.870342,36.139228
+Artur,Baydalin,14,167,+71364946487,klh Bologoe  pr. Kuznetsova  d. 687 str. 4  289970,63.557063,94.272614
+Lydmila,Belesikova,23,172,+72633770592,d. Ekaterinburg  per. Petrovskij  d. 75 str. 450  870505,57.500002,41.531921
+Kirill,Apalin,26,165,+79322000081,d. Alapaevsk  pr. Sedova  d. 39 k. 5/2  599763,64.211735,43.445497
+Leonid,Hamishbekov,14,141,+72316022364,p. Bodajbo  bul. Kalinina  d. 2  968800,63.054080,129.626840
+Eva,Bolehova,25,176,+74201443314,klh Urjupinsk  sh. Kazach'e  d. 7  651501,66.579923,134.419310
+Artem,Evstyhin,66,187,+76618783185,st. Zabajkal'sk  per. 50 let Pobedy  d. 9 k. 574  130471,55.308493,55.584254
+Taras,Tschedushnov,4,72,+76202908176,s. Izhevsk  pr. Proezzhij  d. 1  266431,66.469551,146.421346
+Vyacheslav,Taratushkin,37,191,+77387629412,klh Novomichurinsk  sh. Protochnoe  d. 907 k. 1/6  200435,58.342135,151.635679
+Taras,Arepin,50,172,+78204671589,k. Sorochinsk  pr. Michurina  d. 350  315262,66.801474,105.557236
+Kseniya,Vinourova,42,169,+76501623319,s. Zheleznogorsk(Kursk.)  per. Frunze  d. 9/3  338164,61.849365,29.731012
+Viktoriya,Shipenkova,53,178,+77250508872,g. Achinsk  bul. Baltijskij  d. 7  517116,55.064505,153.155589
+Larisa,Motsygina,18,187,+72840568877,p. Chusovoj  all. Krasnaja  d. 4 k. 244  869838,59.001127,69.410237
+Stepan,Sennikov,30,183,+72806406953,p. Oktjabr'skij (Bashk.)  ul. Zagorodnaja  d. 744 str. 8  998838,56.808024,56.873597
+Anna,Kondareva,34,172,+76521955866,k. Murom  sh. Krymskoe  d. 331 k. 88  607523,63.291895,133.031363
+Mihail,Zhedaev,39,157,+74843073323,s. Magas  ul. Tsentral'naja  d. 327 str. 811  481949,65.352156,40.682250
+Sofiya,Ivarovskaya,55,187,+71428012579,k. Pinega  pr. Proezzhij  d. 12 k. 11  719879,62.184503,98.164548
+Darya,Mostoboeva,19,184,+75864966357,k. Argajash  ul. Torgovaja  d. 6  125260,60.992253,154.652676
+Albert,Appolonov,42,190,+73901395972,p. Kirzhach  bul. Il'icha  d. 6 k. 9  448999,68.996054,150.837452
+Leonid,Buzakov,63,178,+79906157631,d. Mytischi  bul. Astrahanskij  d. 1  005804,66.713932,107.279318
+Ivan,Stolpanov,34,182,+76101657697,s. Toksovo  nab. Marksa  d. 3  340091,61.700364,124.351360
+Nataliya,Politanova,49,189,+71795009960,k. Ahtubinsk  all. Kuznetskaja  d. 36 k. 8  225090,63.601069,149.680313
+Oksana,Ahromova,28,172,+74090121462,st. Cherskij  all. Kotovskogo  d. 962  573569,61.543931,34.533693
+Anna,Sneshkova,29,187,+73195287026,st. Amderma  nab. Stroitelej  d. 8/4 str. 874  347936,59.278017,107.795769
+Dmitriy,Zhiveynov,29,194,+71144619173,g. Dankov  bul. Zoi Kosmodem'janskoj  d. 91  199659,55.408039,132.600739
+Eduard,Sabatkoev,22,174,+79867914807,p. Artem  all. Semashko  d. 8  947811,66.023534,72.127589
+Liza,Hudobina,32,180,+77118778178,k. Mytischi  pr. Tel'mana  d. 9 str. 582  706992,58.326209,57.754180
+Lydmila,Molenova,48,173,+76268484579,g. Valdaj  sh. Novoe  d. 447 k. 14  295467,67.553077,141.745798
+Aleksey,Levshukov,17,167,+77779749711,k. Gubkinskij  sh. Karla Libknehta  d. 204  629801,66.875125,101.200971
+Sofya,Varyagova,29,186,+71272353070,k. Mozhajsk  ul. Petrovskaja  d. 5/1 k. 1/5  644279,66.430415,156.970314
+Nikita,Merzenin,62,178,+73517561498,d. Pyshma  nab. Tereshkovoj  d. 416  711636,66.382292,142.822239
+Nikita,Dunyaev,28,164,+73646689751,s. Ahtubinsk  sh. Malinovoe  d. 8/8  376597,68.485093,142.306814
+Yana,Luarsabova,29,171,+74440209898,g. Orsk  nab. Karla Libknehta  d. 5  692612,62.256992,130.810631
+Vadim,Dvoryankov,26,174,+78233427359,st. Vladivostok  ul. 9 Janvarja  d. 8/4 k. 7/2  632370,63.717337,155.843153
+Larisa,Hodataeva,67,194,+72256353489,st. Tambej  ul. Kazach'ja  d. 1 k. 199  053012,62.885948,81.096322
+Boris,Korzhevskiy,24,182,+71335227790,d. Michurinsk  all. Amurskaja  d. 381 k. 719  676528,68.080955,81.878703
+Vladimir,Hromkov,44,166,+73769453663,st. Ershov  all. Truda  d. 32  620406,67.185573,84.891052
+Natalya,Ryabnova,10,134,+74516925836,klh Rubtsovsk  all. Chehova  d. 63 k. 39  951932,60.304966,78.606123
+Yakov,Kassirov,14,152,+77138251691,d. Rostov  sh. Ivanovskoe  d. 8 str. 157  791057,57.993098,108.428003
+Yakov,Hudushin,35,185,+77226982023,klh Penza  pr. Stanislavskogo  d. 75 str. 8/5  876995,63.868751,86.383892
+Eduard,Zhislin,26,185,+79294738110,p. Beloretsk  bul. Sverdlova  d. 8/1  843890,61.594613,139.144683
+Kirill,Hanzhiev,49,178,+78240265125,k. El'nja  per. Dal'nij  d. 97 k. 47  294274,68.042952,144.428766
+Valentin,Panynin,16,177,+73046613636,g. Dzhejrah  nab. Tamanskaja  d. 97 k. 201  989681,55.336467,29.870077
