@@ -7,4 +7,6 @@ add_subdirectory(hw_1)
 add_subdirectory(hw_2)
 add_subdirectory(hw_3)
 add_subdirectory(hw_4)
+add_subdirectory(hw_5)
+add_subdirectory(hw_6)
 
