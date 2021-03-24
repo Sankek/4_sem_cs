@@ -12,7 +12,7 @@ auto measure_for_each(size_t size){
   
   Timer<std::chrono::nanoseconds> t;
 
-  auto f = [](auto x){ std::sin(std::sin(std::tan(1.5 - std::sin(x))));};
+  auto f = [](auto &x){ x = std::sin(x*x*x/((x+3)*(x+4))*std::cos(x*x*x*(x+1)*(x+2)));};
   t.start();
   std::for_each(std::execution::seq, v.begin(), v.end(), f);
   t.stop();
@@ -92,7 +92,7 @@ int main(int argc, char ** argv)
   std::ofstream file("../output.csv", std::ios::out);
   file << "size,for_each (seq),for_each (par),partial_sum,inclusive_scan,inner_product,transform_reduce\n";
   for (size_t size = 1000; size<100000000; size*=10){
-    size_t repeats = 50;
+    size_t repeats = 200;
     auto for_each_time = average_time(measure_for_each, size, repeats);
     auto part_sum_time = average_time(measure_partial_sum, size, repeats);
     auto inn_prod_time = average_time(measure_inner_product, size, repeats);
