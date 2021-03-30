@@ -1,0 +1,6 @@
+project(hw_8)
+
+add_subdirectory(monte_carlo_counter)
+add_subdirectory(find_dna)
+add_subdirectory(threadsafe_priority_queue)
+add_subdirectory(threadsafe_comparison)
