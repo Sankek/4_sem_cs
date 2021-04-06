@@ -25,7 +25,7 @@ struct Searcher
     return true;
   }
   void operator()(Iterator first, Iterator last, std::string & element,
-                  std::vector < int > & container, size_t index) noexcept
+                  std::vector < int > & container, size_t index) 
   {
     const size_t size = element.size();
     for (; (first != last); ++first)
@@ -60,7 +60,7 @@ void parallel_find(Iterator first, Iterator last, std::string & element, std::ve
 
   const size_t block_size = length / num_threads;
 
-  std::vector < std::future < void > > threads(num_threads - 1);
+  std::vector < std::future < void > > futures(num_threads - 1);
 
   {
     Iterator block_start = first;
@@ -72,7 +72,7 @@ void parallel_find(Iterator first, Iterator last, std::string & element, std::ve
       std::advance(block_end, block_size + std::min(size, std::distance(block_end, last)) - size + 1);
       index = std::distance(first, block_start);
 
-      threads[i] = std::async(Searcher < Iterator> (),
+      futures[i] = std::async(std::launch::async, Searcher <Iterator> (),
                               block_start, block_end, std::ref(element), std::ref(container), index);
 
       block_start = block_end;
@@ -82,6 +82,10 @@ void parallel_find(Iterator first, Iterator last, std::string & element, std::ve
     {
       Searcher < Iterator> ()(block_start, last, element, container, index);
     }
+  }
+
+  for (auto &f : futures){
+    f.wait();
   }
 }
 
