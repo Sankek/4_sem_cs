@@ -1,0 +1,3 @@
+add_subdirectory(brownian_motion)
+add_subdirectory(Julia_set)
+add_subdirectory(unit_cell)
