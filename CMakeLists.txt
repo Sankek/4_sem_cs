@@ -20,4 +20,5 @@ endif()
 
 if(MINGW)
     add_subdirectory(hw_11)
+    add_subdirectory(hw_12)
 endif()
